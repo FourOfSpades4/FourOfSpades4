@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Burke!
 
-<!--
-**FourOfSpades4/FourOfSpades4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student at [University of Maryland](https://umd.edu/)  
+&nbsp;&nbsp;&nbsp;&nbsp;Specializing in Software Development / Cybersecurity
+<br>
+  
 
-Here are some ideas to get you started:
+#### Contact Me
+Email: `burkeseeger@gmail.com`  
+Discord: `fourofspades4`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages
+- `Python`
+- `C#`
+- `Java`
+- `C++`
+- `C`
+- `SQL`
+- `HTML / CSS / JavaScript`
+- `ASM`
+```
